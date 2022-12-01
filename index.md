@@ -1,5 +1,6 @@
-Here you can say lots of fun things about your site.
+Hello my name is Amari! Welcome to my blog about my quality assurance testing journey. 
+I am currently enrolled in a QA software testing class and would like to practice my skills here.
 
-Maybe say a some things about yourself.
 
-Or maybe what you plan to blog about.
+
+
